@@ -1,5 +1,5 @@
 # Leetcode
-There are some LeetCode solutions in this repository:
+There are some LeetCode solutions(Using Python or C++ or both) in this repository:
 
 * [Problem 111](https://leetcode.com/problems/invert-binary-tree/)——[Solution](https://github.com/Relics/Leetcode/tree/master/Src/111_Minimum%20Depth%20of%20Binary%20Tree)
 * [Problem 203](https://leetcode.com/problems/remove-linked-list-elements/)——[Solution](https://github.com/Relics/Leetcode/tree/master/Src/203_Remove%20Linked%20List%20Elements)
