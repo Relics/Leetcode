@@ -9,6 +9,6 @@ These are my LeetCode solutions(Using Python or C++ or both) in this repository:
 * [Problem 226](https://leetcode.com/problems/invert-binary-tree/)——[Solution](https://github.com/Relics/Leetcode/tree/master/Src/226_Invert%20Binary%20Tree)
 
 
-Finshed problem log
-2016.04.17
-Problem 
+# Finshed problem log
+* 2016.04.17 Problem  
+* 2016.04.18 Problem 
