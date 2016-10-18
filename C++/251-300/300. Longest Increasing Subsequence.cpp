@@ -1,4 +1,5 @@
-// O(n^2)
+// O(n^2) way
+// Use simple dp
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
@@ -20,7 +21,8 @@ public:
     }
 };
 
-// O(nlogn)
+// O(nlogn) way
+// Use binary seach of the increasing array
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
