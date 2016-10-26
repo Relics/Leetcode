@@ -1,0 +1,44 @@
+<p>Given an array of character, compress it in-place.</p>
+
+<p>The length after compression must always be smaller than or equal to the original array.</p>
+
+<p>You should not allocate any extra space, you must modify the input array in-place and return the new length of the array.</p>
+
+<p><b>Example 0:</b><br />
+<pre>
+Input:
+['a']
+
+Output:
+Return 1, and the first 1 characters of the input array should be: ['a']
+
+Explanation:
+Nothing is replaced.
+</pre>
+</p>
+
+<p><b>Example 1:</b><br />
+<pre>
+Input:
+['a','a','b','b','c','c','c']
+
+Output:
+Return 5, and the first 5 characters of the input array should be: ['a','2','b','2','c','3']
+
+Explanation:
+"aa" is replaced by "a2". "bb" is replaced by "b2". "ccc" is replaced by "c3".
+</pre>
+</p>
+
+<p><b>Example 2:</b><br />
+<pre>
+Input:
+['a','b','b','b']
+
+Output:
+Return 3, and the first 3 characters of the input array should be: ['a','b','3']
+
+Explanation:
+Since the character 'a' does not repeat, it is not compressed. "bbb" is replaced by "b3".
+</pre>
+</p>
