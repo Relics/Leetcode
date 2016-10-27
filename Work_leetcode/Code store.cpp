@@ -25,7 +25,7 @@ public:
                     changeIndex = changeIndex+1;
                     ++ans;
                 }
-            }
+            }   
         }
         if (str[size-1] == str[size-2]) {
             str[changeIndex] = str[size-1];
@@ -41,3 +41,11 @@ public:
         return ans;
     }
 };
+
+
+int main(){
+    Solution a;
+    vector<char> str = {'a'};
+    cout<<a.compress(str)<<endl;
+    return 0;
+}
