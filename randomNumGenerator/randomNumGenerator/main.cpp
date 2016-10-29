@@ -8,12 +8,14 @@
 
 #include <iostream>
 #include <random>
+#include <ctime>
 using namespace std;
 
 int main() {
     cout<<"[";
-    for (int i=-100; i<100; ++i) {
-        cout<<"["<<i<<","<<i+2<<"],";
+    srand((unsigned)time(NULL));
+    for (int i=-1e4+3326; i<1e3+8526; ++i) {
+        cout<<"["<<i<<","<<i+15126+rand()%15256<<"],";
     }
     cout<<"]";
     return 0;
