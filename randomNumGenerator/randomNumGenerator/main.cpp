@@ -7,9 +7,14 @@
 //
 
 #include <iostream>
+#include <random>
+using namespace std;
 
 int main() {
-    
-    
+    cout<<"[";
+    for (int i=-100; i<100; ++i) {
+        cout<<"["<<i<<","<<i+2<<"],";
+    }
+    cout<<"]";
     return 0;
 }
