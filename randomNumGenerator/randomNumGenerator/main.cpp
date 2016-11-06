@@ -12,11 +12,47 @@
 using namespace std;
 
 int main() {
-    cout<<"[";
     srand((unsigned)time(NULL));
-    for (int i=-1e4+3326; i<1e3+8526; ++i) {
-        cout<<"["<<i<<","<<i+15126+rand()%15256<<"],";
+    // interval generator
+    //for (int i=-1e4+3326; i<1e3+8526; ++i) {
+    //    cout<<"["<<i<<","<<i+15126+rand()%15256<<"],";
+    //}
+    //cout<<"]";
+    
+    
+    // question 1
+    /*
+    int n = rand() % 11526;
+    int m = rand() % 11526;
+    cout << n <<endl;
+    cout << m <<endl;
+    cout<<"[";
+    for (int i=0; i<n; ++i) {
+        int temp = rand() % 1526 + 26;
+        cout << temp;
+        if (i != n-1)
+            cout << ',';
     }
-    cout<<"]";
+    cout << "]" << endl;
+    cout<<"[";
+    for (int i=0; i<m; ++i) {
+        int temp = rand() % 526 + 26;
+        cout << temp;
+        if (i != m-1)
+            cout << ',';
+    }
+    cout << "]" << endl;
+    */
+    
+    int n = rand() & 10000;
+    cout << n <<endl;
+    cout<<"[";
+    for (int i=0; i<10; ++i) {
+        int temp = rand() % 818 - 1818;
+        cout << temp;
+        cout << ',';
+    }
+    cout << "]" << endl;
+
     return 0;
 }
