@@ -1,0 +1,49 @@
+["LFUCache","set","set","get","get","get","set","set","get","get","get","get"]
+[[3],[2,2],[1,1],[2],[1],[2],[3,3],[4,4],[3],[2],[1],[4]]
+Res: [null,null,null,2,1,2,null,null,-1,2,1,4]
+
+["LFUCache","get"]
+[[1],[0]]
+Res: [null,-1]
+
+// My Example 1
+["LFUCache","set","set","set","set","get","set","get"]
+[[2],[2,1],[2,2],[2,3],[3,8],[3],[4,4],[3]]
+Res: [null,null,null,null,null,8,null,-1]
+// Conclusion: set也算+counter的操作
+
+
+// My Example 2
+["LFUCache","get","get","get","set","set","get","set","get"]
+[[2],[2],[2],[2],[2,3],[3,4],[3],[4,4],[2]]
+Res: [null,-1,-1,-1,null,null,4,null,-1]
+
+
+// My Example 3
+["LFUCache","set",""get","get","get","set","get","set","get"]
+[[2],[2,1],[2],[2],[2],[2,3],[3,4],[3],[4,4],[2]]
+
+
+["LFUCache","set","get"]
+[[1],[2,1],[1]]
+Res: [null,null,-1]
+
+
+["LFUCache","set","get"]
+[[1],[2,1],[2]]
+Res: [null,null,1]
+
+
+["LFUCache","set","get","set","get","get"]
+[[1],[2,1],[2],[3,2],[2],[3]]
+Res: [null,null,1,null,-1,2]
+
+
+["LFUCache","set","set","get","set","set","get"]
+[[2],[2,1],[2,2],[2],[1,1],[4,1],[2]]
+Res: [null,null,null,2,null,null,2]
+
+
+["LFUCache","set","set","get","set","set","get"]
+[[2],[2,1],[2,2],[2],[1,1],[2,1],[2]]
+Res: [null,null,null,2,null,null,1]
