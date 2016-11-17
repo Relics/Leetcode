@@ -1,0 +1,39 @@
+For the question <Can I Win>:
+1. It has the setence of 'Boolean canIWin(int maxChoosableInteger, int desiredTotal)', I think it is unfriendly for other programmers other than Java programmers, since some language like C++ doesn't have the variable like 'Boolean'.
+
+2. Your priority should be programmer efficiency; don't focus on minimizing either space or time complexity.
+(I think it's inapporiate for a contest problem, also, it's misleading since my brute-force solution will get TLE.)
+
+3. I think we should explain the concept of "maxChoosableInteger" in the problem description.
+
+
+// Code
+class Solution {
+private:
+    unordered_map<int, bool> isUsed;
+    unordered_map<int, bool> dp;
+public:
+    bool canIWin(int maxChoosableInteger, int desiredTotal) {
+        bool ans = false;
+        for (int i=1; i<=maxChoosableInteger; ++i) isUsed[i] = false;
+        if (desiredTotal > (maxChoosableInteger * (maxChoosableInteger-1))/2) return false;
+        return helper(desiredTotal);
+    }
+    bool helper(int disiredTotal) {
+        if (dp.count(disiredTotal) != 0) return dp[disiredTotal];
+        for (auto m=isUsed.begin(); m!=isUsed.end(); ++m) {
+            if (!m->second) {
+                if (m->first >= disiredTotal) return true;
+                m->second = true;
+                bool tempAns = helper(disiredTotal - m->first);
+                if (!tempAns) {
+                    dp[disiredTotal] = true;
+                    return true;
+                }
+                m->second = false;
+            }
+        }
+        dp[disiredTotal] = false;
+        return false;
+    }
+};
