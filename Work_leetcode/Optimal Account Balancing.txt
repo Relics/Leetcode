@@ -1,0 +1,5 @@
+For the problem 432 *Optimal Account Balancing*'s description:
+
+1. I think z should be clarified to larger than 0.
+
+2. We need to add the condition "x != y"
