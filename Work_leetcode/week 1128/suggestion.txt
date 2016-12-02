@@ -1,0 +1,21 @@
+For the problem *number-of-words-in-a-string*:
+I got AC by now.
+This problem is too easy for Python and Java user, they may just use *split* to finish all the process.
+Also, the definition of "word" needs to be tuned, as the example shows, "Hello, my name is John", there is a word is "Hello," which contains punctuation ',' and illegal for the regular word definition.
+By the way, I think we could make the problem more difficult a little by letting user finding all the different words or letting user output all the legal words which also doesn't have the punctuation. Ex, for the example "Hello John, my name is John", we except the user to output the array of words like ["Hello", "John", "my", "name", "is"].
+
+
+For the problem *unique-substrings-in-wraparound-string*:
+I got AC by now.
+I think we could make it as *Count The Repetitions II* (Count The Repetitions I: https://leetcode.com/problems/count-the-repetitions/) since we could use the definition in the problem *Count The Repetitions*, like S = [s1, $\infty$], where s1 is "abcdefghijklmnopqrstuvwxyz", which will make this problem more understandable.
+
+The original description "...xyzabcdefghijklmnopqrstuvwxyzabcdef..." is unconspicuous and not mention that the string s is a wrapped string of 26 characters "abcdefghijklmnopqrstuvwxyz".
+
+For the problem *convex-polygon*:
+The present AC solution is wrong, it got false for the basic case: [[0,0],[0,1],[1,1],[1,0]].
+
+Test cases:
+[[1,1],[1,0],[0,0],[0,1]]
+[[1,1],[2,2],[3,3]]
+[[2,2],[3,3],[1,1]]
+[[1,1],[2,2],[3,1]]

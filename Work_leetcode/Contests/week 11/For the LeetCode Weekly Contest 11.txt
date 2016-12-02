@@ -1,0 +1,11 @@
+Hi @stefanpochmann and @stomach_ache, for this week's contest we have 4 problems as selected by @stomach_ache:
+https://leetcode.com/problems/number-of-words-in-a-string/
+https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+https://leetcode.com/problems/convex-polygon/
+https://leetcode.com/problems/count-the-repetitions/
+---
+I have polished the problem desription for all of these four problem, please have a look and make the polish you think it is good. @stefanpochmann, please focus on the porblem *convex-polygon* and *count-the-repetitions*; @stomach_ache, please focus on the problem *unique-substrings-in-wraparound-string*. It's great that some of problems you may have submitted your solutions, if you did, please also focus the bounding of test cases and the accuracy of problem description. Let's make this week's contest a wonderful.
+
+
+I’ve just selected 4 problems for this week’s contest, please have a look and make sure there is no stupid mistakes as possible as we can. BTW, the description and difficulty of problems may still need to be fine tuned. Let’s ensure it’s correctness at the very first. Thanks for your efforts:smiley:.
+
