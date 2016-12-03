@@ -1,0 +1,2 @@
+Sorted Squares (easy): https://leetcode.com/library/edit/489/
+Validate IP Address (medium): https://leetcode.com/library/edit/501/
