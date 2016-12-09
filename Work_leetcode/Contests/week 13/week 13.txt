@@ -1,0 +1,7 @@
+Hi everyone, I've selected four questions for this week's contest, please have a look at them when you are free.
+Problem 1-Ones and Zeroes(Easy): https://leetcode.com/library/edit/498/
+Problem 2-Heaters(Medium): https://leetcode.com/library/edit/502/
+Problem 3-License Key Formatting(Medium): https://leetcode.com/library/edit/496/
+Problem 4-Erect the Fence(Medium): https://leetcode.com/library/edit/499/
+
+

@@ -1,0 +1,10 @@
+So, @stefanpochmann @stomach_ache 
+This week’s finalised contest problem will be: 
+Problem 1-Ones and Zeroes(Medium): https://leetcode.com/library/edit/498/
+Problem 2-Validate IP Address(Medium): https://leetcode.com/library/edit/501/
+Problem 3-Matchsticks to Squares(Medium): https://leetcode.com/library/edit/506/
+Problem 4-Encode String with Shortest Length(Hard): https://leetcode.com/library/edit/418/
+Please have a look at them when you are free. 
+
+Problem 1-让pochman帮忙改一下题目描述和test case
+Problem 2-
