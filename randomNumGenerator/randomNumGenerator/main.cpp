@@ -44,14 +44,10 @@ int main() {
     cout << "]" << endl;
     */
     
-    int n = rand() % 20000;
+    int n = 526;
     cout<<"[";
-    for (int i=0; i<n; ++i) {
-        int a = rand() % 50;
-        int b = rand() % 50;
-        if (a == b) continue;
-        int c = rand() % 100 + 1;
-        cout << "["<<a<<","<<b<<","<<c<<"],";
+    for (int i=1; i<=n; ++i) {
+        cout << "\"" << i%2 << 1 << "01\",";
     }
     cout << "]" << endl;
 
