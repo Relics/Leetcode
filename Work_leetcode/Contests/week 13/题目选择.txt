@@ -1,7 +1,18 @@
 Hi everyone, I've selected four questions for this week's contest, please have a look at them when you are free.
-Problem 1-
+Problem 1-Number Complement(Easy): https://leetcode.com/library/edit/509/
 Problem 2-Matchsticks to Squares(Medium): https://leetcode.com/library/edit/506/
 Problem 3-License Key Formatting(Medium): https://leetcode.com/library/edit/496/
-Problem 4-Erect the Fence(Medium): https://leetcode.com/library/edit/499/
+Problem 4-Erect the Fence(Hard): https://leetcode.com/library/edit/499/
+
+
+
+
+Problem 1-Hamming Distance(Easy): https://leetcode.com/library/edit/487/
+Problem 2-Total Hamming Distance(Medium): https://leetcode.com/library/edit/508/
+Problem 3-Matchsticks to Square(Medium，上周的没用到但是已经完成的题): https://leetcode.com/library/edit/506/
+Problem 4-Concatenated Words(Hard-DP): https://leetcode.com/library/edit/505/
+(Or Problem 4-Erect the Fence(Hard-凸包): https://leetcode.com/library/edit/499/)
+@stomach_ache 正在研究最后一道题的取舍，我们尽快会确定下来最后一道题
+
 
 

@@ -44,7 +44,8 @@ int main() {
     cout << "]" << endl;
     */
     
-    int n = 526;
+    cout << INT_MAX << endl;
+    int n = 0;
     cout<<"[";
     for (int i=1; i<=n; ++i) {
         cout << "\"" << i%2 << 1 << "01\",";
