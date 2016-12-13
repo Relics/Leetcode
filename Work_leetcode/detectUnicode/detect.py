@@ -34,7 +34,7 @@ for line in data:
         totalCounts += 1
 
         if totalCounts == 512147:
-            print 
+            print
             break
 
 print(lineCounts)
