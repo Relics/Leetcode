@@ -1,16 +1,17 @@
-本周(contest 12)的题目：
-Problem 1-Heaters(Easy): https://leetcode.com/problems/heaters/
-Problem 2-Validate IP Address(Medium): https://leetcode.com/problems/validate-ip-address/
-Problem 3-Ones and Zeroes(Medium): https://leetcode.com/problems/ones-and-zeroes/
-Problem 4-Encode String with Shortest Length(Hard): https://leetcode.com/problems/encode-string-with-shortest-length/
+本周(contest 13)的题目：
+Problem 1-Hamming Distance(Easy): https://leetcode.com/library/edit/487/
+Problem 2-Total Hamming Distance(Medium): https://leetcode.com/library/edit/508/
+Problem 3-Matchsticks to Square(Medium): https://leetcode.com/library/edit/506/
+Problem 4-Concatenated Words(Hard): https://leetcode.com/library/edit/505/
 
-分数：
-Problem 1-Heaters(Easy): 3
-Problem 2-Validate IP Address(Medium): 5
-Problem 3-Ones and Zeroes(Medium): 7
-Problem 4-Encode String with Shortest Length(Hard): 10
+分数设置：
+Problem 1-Hamming Distance(Easy): 3
+Problem 2-Total Hamming Distance(Medium): 6
+Problem 3-Matchsticks to Square(Medium): 6
+Problem 4-Concatenated Words(Hard): 10
 
-关于Matchsticks to Squares：
-这道题我们三个人都没有想出来非暴力的解法，原来那个人解法也是错的，于是我们把这道题推到下一周了。替换为了Heaters这道题。
+问题描述：
+我又查了一遍，没有语法和单词拼写错误。
 
-Library已经全部重新publish过了一遍，后台那边也把这周的题目添加上去了。
+Test case范围：
+我正在最后查一遍我们的test case的范围没有超过我们自己定义的范围。

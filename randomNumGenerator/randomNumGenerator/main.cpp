@@ -44,13 +44,16 @@ int main() {
     cout << "]" << endl;
     */
     
-    cout << INT_MAX << endl;
-    int n = 0;
-    cout<<"[";
-    for (int i=1; i<=n; ++i) {
-        cout << "\"" << i%2 << 1 << "01\",";
-    }
-    cout << "]" << endl;
+    //for (int j=1; j<=50; ++j) {
+        cout<<"[";
+        for (int i=1; i<=15; ++i) {
+            if (i != 15)
+                cout << 8 * i<< ",";
+            else
+                cout << 4 * i;
+        }
+        cout << "]" << endl;
+    //}
 
     return 0;
 }
