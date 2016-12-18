@@ -5,7 +5,15 @@ import numpy as np
 input = open('input.txt')
 output = open('output.txt','w')
 
+
+matrix = [[0 for i in range(10)] for i in range(3)]
+
+print(matrix)
+
+
+
 data = []
+
 
 # Read in data
 for line in input.readlines():
