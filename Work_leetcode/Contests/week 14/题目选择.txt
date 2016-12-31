@@ -1,0 +1,4 @@
+Problem 1-Number Complement(Easy，位运算): https://leetcode.com/library/edit/509/
+Problem 2-Magical String(Medium, 字符串): https://leetcode.com/library/preview/503/
+Problem 2-License Key Formatting(Medium，字符串): https://leetcode.com/library/edit/496/
+Problem 4-Sliding Window Median(Hard, 堆): https://leetcode.com/library/edit/507/
