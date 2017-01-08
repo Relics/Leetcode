@@ -44,6 +44,7 @@ int main() {
     cout << "]" << endl;
     */
     
+    /*
     //for (int j=1; j<=50; ++j) {
         cout<<"[";
         for (int i=1; i<=15; ++i) {
@@ -54,6 +55,13 @@ int main() {
         }
         cout << "]" << endl;
     //}
-
+    */
+    
+    
+    for (int i=1; i<=50; ++i) {
+        int a = rand() % 1213 + 1;
+        cout << a << endl;
+    }
+     
     return 0;
 }
