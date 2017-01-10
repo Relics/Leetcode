@@ -1,0 +1,4 @@
+Problem 1-Max Consecutive Ones (Easy): https://leetcode.com/library/edit/526/
+Problem 2-Max Consecutive Ones II (Medium, 拍脑袋O(n)解法，two pointers): https://leetcode.com/library/edit/527/
+Problem 3-Zuma Game(Medium, DFS): https://leetcode.com/library/edit/528/
+Problem 4-Smallest Good Base (Medium，数学，模拟): https://leetcode.com/library/edit/524/
