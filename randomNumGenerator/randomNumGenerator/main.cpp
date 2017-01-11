@@ -57,11 +57,12 @@ int main() {
     //}
     */
     
-    
-    for (int i=1; i<=50; ++i) {
-        int a = rand() % 1213 + 1;
-        cout << a << endl;
+    cout << "[";
+    for (int i=1; i<=20; ++i) {
+        int a = rand() % 526;
+        cout << a << ",";
     }
+    cout << "]" << endl;
      
     return 0;
 }
