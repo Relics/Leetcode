@@ -1,6 +1,7 @@
-To release your burden, I want to let you know next week's 10:30am contest by now.
+Hi everyone! To release your burden, I want to let you know next week's 10:30am contest problems in advance.
 *The week 16 (Next week) 10:30 contest’s* problems are:
-Problem 1-
-Problem 2-
-Problem 3-
-(Please review them when you finished reviewing week 15's problems)
+Problem 1-Find Permutation(Greedy): https://leetcode.com/library/edit/521/
+Problem 2-Predict the winner(DFS): https://leetcode.com/library/edit/530/
+Problem 3-The maze(DFS): https://leetcode.com/library/edit/532/
+
+Please review them when you finished reviewing week 15's problems : )
