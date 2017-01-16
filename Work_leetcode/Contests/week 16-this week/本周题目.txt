@@ -1,0 +1,19 @@
+Hi everyone!
+
+After considering the voting data coming from users, we decided to change the time of *10:30am* PST contest to *8:30am* PST.
+
+And for this week we have two contests:
+
+The *week 16 contestA* (This week) Saturday *08:30am* PST contest’s problems are:
+Problem 1-*Find Permutation* (Greedy): https://leetcode.com/library/edit/521/
+Problem 2-*Increasing Subsequences* (construct): https://leetcode.com/library/edit/522/
+Problem 3-*Target Sum* (DFS): https://leetcode.com/library/edit/518/
+
+The *week 16 contestB* (This week) Saturday *18:30pm* PST contest's problems are:
+Problem 1-*Construct the rectangle* (construct): https://leetcode.com/library/edit/540/
+Problem 2-*Predict the winner*: https://leetcode.com/library/edit/530/
+Problem 3-*Smallest Good Base*: https://leetcode.com/library/edit/524/
+
+Please review them when you are free. :slightly_smiling_face:
+
+BTW, according to @fallcreek. For the problem *The maze* we decide to leave it in the week 17 to make it a series problem.

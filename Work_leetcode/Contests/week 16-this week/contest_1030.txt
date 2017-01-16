@@ -1,0 +1,17 @@
+Hi everyone! This week we have two contests:
+
+The week 16 (This week) Saturday *10:30am* PST contest’s problems are:
+Problem 1-Find Permutation(Greedy): https://leetcode.com/library/edit/521/
+Problem 2-Increasing Subsequences(construct): https://leetcode.com/library/edit/522/
+Problem 3-
+
+The week 16 (This week) Saturday *10:30am* PST contest's problems are:
+Problem 1-
+Problem 2-Predict the winner
+Problem 3-Smallest Good Base: https://leetcode.com/library/edit/524/
+
+Please review them when you finished reviewing week 15's problems : )
+
+
+The week 17
+The maze(DFS): https://leetcode.com/library/edit/532/
