@@ -1,0 +1,12 @@
+Leetcode using Feedback (Until 01.21):
+
+1. https://leetcode.com/love_fdu_llp/，想保住用户粘性的话，感觉换头像这个功能没做好，http://en.gravatar.com/还要去这个网站注册，感觉好麻烦啊。
+
+2. 帮contest rating分级，给用户的cotest rating加头衔我感觉还是挺重要的事情。
+
+3. 
+
+
+---
+不满10条不发给老板
+

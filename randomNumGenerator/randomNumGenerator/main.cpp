@@ -58,9 +58,11 @@ int main() {
     */
     
     cout << "[";
-    for (int i=1; i<=20; ++i) {
-        int a = rand() % 526;
+    int last = 0;
+    for (int i=1; i<=10000; ++i) {
+        int a = rand() % 126 + last;
         cout << a << ",";
+        last = a;
     }
     cout << "]" << endl;
      

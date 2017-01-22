@@ -8,6 +8,7 @@ The *week 16 contestA* (This week) Saturday (*2017.01.21*) *07:30am* PST contest
 Problem 1-*Find Permutation* (Greedy): https://leetcode.com/library/edit/521/
 Problem 2-*Increasing Subsequences* (construct): https://leetcode.com/library/edit/522/
 Problem 3-*Target Sum* (DP / DFS): https://leetcode.com/library/edit/518/
+----Target Sum: On working
 
 ------------------------------------------------------
 The *week 16 contestB* (This week) Saturday (*2017.01.21*) *18:30pm* PST contest's problems are:

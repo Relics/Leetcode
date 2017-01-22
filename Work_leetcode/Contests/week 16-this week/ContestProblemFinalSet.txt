@@ -1,0 +1,12 @@
+这周两场的题目准备好了：
+Find permutation我觉得稍微有些难，是不是不加那个《赛后显示结果》功能比较好？
+
+ContestA:
+1. Find Permutation: https://leetcode.com/problems/find-permutation/
+2. Increasing Subsequences: https://leetcode.com/problems/increasing-subsequences/
+3. Target Sum: https://leetcode.com/problems/target-sum/
+
+ContestB:
+1. Construct the rectangle: https://leetcode.com/problems/construct-the-rectangle/
+2. Predict the winner: https://leetcode.com/problems/predict-the-winner/
+3. Smallest Good Base: https://leetcode.com/problems/smallest-good-base/
