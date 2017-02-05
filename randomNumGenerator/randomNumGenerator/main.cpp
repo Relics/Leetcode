@@ -9,6 +9,7 @@
 #include <iostream>
 #include <random>
 #include <ctime>
+#include <unordered_set>
 using namespace std;
 
 int main() {
@@ -57,14 +58,20 @@ int main() {
     //}
     */
     
-    cout << "[";
+    //unordered_set<int> s;
+    //for (int i=0; i<1000; ++i)
+    //    s.insert(rand() % 1200);
     int last = 0;
-    for (int i=1; i<=10000; ++i) {
-        int a = rand() % 126 + last;
-        cout << a << ",";
-        last = a;
+    unordered_set<int> uset;
+    
+    cout << "[";
+    for (int i=0; i<10000; ++i) {
+        uset.insert(rand() % 526);
+    }
+    for (auto u : uset){
+        cout << u << ",";
     }
     cout << "]" << endl;
-     
+    
     return 0;
 }

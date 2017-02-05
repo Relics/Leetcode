@@ -1,0 +1,54 @@
+Amazon
+146	LRU Cache	16.1%	Hard	
+1	Two Sum	30.4%	Easy	
+200	Number of Islands	32.5%	Medium	
+297	Serialize and Deserialize Binary Tree	31.9%	Hard	
+438	Find All Anagrams in a String	33.3%	Easy	
+460	LFU Cache	20.0%	Hard	
+236	Lowest Common Ancestor of a Binary Tree	29.3%	Medium	
+20	Valid Parentheses	32.3%	Easy	
+138	Copy List with Random Pointer	26.6%	Medium	
+48	Rotate Image	37.2%	Medium	
+238	Product of Array Except Self	47.3%	Medium	
+380	Insert Delete GetRandom O(1)	38.5%	Medium	
+239	Sliding Window Maximum	31.6%	Hard	
+387	First Unique Character in a String	45.5%	Easy	
+5	Longest Palindromic Substring	24.7%	Medium	
+121	Best Time to Buy and Sell Stock	39.3%	Easy	
+17	Letter Combinations of a Phone Number	32.6%	Medium	
+206	Reverse Linked List	43.7%	Easy	
+235	Lowest Common Ancestor of a Binary Search Tree	38.2%	Easy	
+240	Search a 2D Matrix II	38.0%	Medium	
+127	Word Ladder	19.3%	Medium	
+42	Trapping Rain Water	35.5%	Hard	
+155	Min Stack	26.5%	Easy	
+141	Linked List Cycle	35.8%	Easy	
+160	Intersection of Two Linked Lists	30.1%	Easy	
+242	Valid Anagram	45.0%	Easy	
+49	Group Anagrams	32.1%	Medium	
+2	Add Two Numbers	26.5%	Medium	
+215	Kth Largest Element in an Array	37.7%	Medium	
+234	Palindrome Linked List	31.7%	Easy	
+139	Word Break	28.4%	Medium	
+449	Serialize and Deserialize BST	42.0%	Medium	
+126	Word Ladder II	13.6%	Hard	
+98	Validate Binary Search Tree	22.5%	Medium	
+23	Merge k Sorted Lists	26.1%	Hard	
+3	Longest Substring Without Repeating Characters	23.8%	Medium	
+167	Two Sum II - Input array is sorted	48.3%	Easy	
+21	Merge Two Sorted Lists	38.1%	Easy	
+186	Reverse Words in a String II 	28.2%	Medium	
+15	3Sum	21.0%	Medium	
+78	Subsets	37.1%	Medium	
+414	Third Maximum Number	26.9%	Easy	
+102	Binary Tree Level Order Traversal	37.3%	Medium	
+73	Set Matrix Zeroes	35.2%	Medium	
+89	Gray Code	39.5%	Medium	
+355	Design Twitter	24.7%	Medium	
+204	Count Primes	26.2%	Easy	
+8	String to Integer (atoi)	13.8%	Medium	
+199	Binary Tree Right Side View	38.9%	Medium	
+119	Pascal's Triangle II	35.2%	Easy	
+451	Sort Characters By Frequency	50.2%	Medium	
+459	Repeated Substring Pattern	39.0%	Easy	
+396	Rotate Function	30.5%	Medium	

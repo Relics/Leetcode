@@ -1,0 +1,160 @@
+Google
+388	Longest Absolute File Path	35.3%	Medium	
+482	License Key Formatting	42.2%	Medium	
+340	Longest Substring with At Most K Distinct Characters 	38.6%	Hard	
+308	Range Sum Query 2D - Mutable 	20.2%	Hard	
+418	Sentence Screen Fitting 	27.5%	Medium	
+298	Binary Tree Longest Consecutive Sequence 	40.0%	Medium	
+425	Word Squares 	42.7%	Hard	
+281	Zigzag Iterator 	48.7%	Medium	
+361	Bomb Enemy 	37.9%	Medium	
+346	Moving Average from Data Stream 	57.7%	Easy	
+163	Missing Ranges 	26.9%	Medium	
+394	Decode String	40.4%	Medium	
+66	Plus One	37.1%	Easy	
+317	Shortest Distance from All Buildings 	33.4%	Hard	
+393	UTF-8 Validation	35.6%	Medium	
+271	Encode and Decode Strings 	26.4%	Medium	
+288	Unique Word Abbreviation 	15.5%	Medium	
+305	Number of Islands II 	38.3%	Hard	
+280	Wiggle Sort 	55.5%	Medium	
+259	3Sum Smaller 	40.7%	Medium	
+200	Number of Islands	32.5%	Medium	
+289	Game of Life	36.4%	Medium	
+471	Encode String with Shortest Length 	43.2%	Hard	
+246	Strobogrammatic Number 	39.1%	Easy	
+351	Android Unlock Patterns 	42.9%	Medium	
+465	Optimal Account Balancing 	30.9%	Hard	
+218	The Skyline Problem	25.7%	Hard	
+279	Perfect Squares	35.3%	Medium	
+484	Find Permutation 	49.7%	Medium	
+417	Pacific Atlantic Water Flow	32.9%	Medium	
+391	Perfect Rectangle	24.7%	Hard	
+286	Walls and Gates 	42.7%	Medium	
+406	Queue Reconstruction by Height	54.6%	Medium	
+56	Merge Intervals	28.6%	Medium	
+320	Generalized Abbreviation 	43.7%	Medium	
+345	Reverse Vowels of a String	37.4%	Easy	
+297	Serialize and Deserialize Binary Tree	31.9%	Hard	
+247	Strobogrammatic Number II 	38.5%	Medium	
+407	Trapping Rain Water II	35.8%	Hard	
+399	Evaluate Division	40.1%	Medium	
+159	Longest Substring with At Most Two Distinct Characters 	39.8%	Hard	
+284	Peeking Iterator	35.1%	Medium	
+294	Flip Game II 	45.5%	Medium	
+411	Minimum Unique Word Abbreviation 	31.2%	Hard	
+228	Summary Ranges	28.3%	Medium	
+295	Find Median from Data Stream	23.6%	Hard	
+329	Longest Increasing Path in a Matrix	35.6%	Hard	
+380	Insert Delete GetRandom O(1)	38.5%	Medium	
+146	LRU Cache	16.1%	Hard	
+359	Logger Rate Limiter 	58.3%	Easy	
+362	Design Hit Counter 	52.9%	Medium	
+341	Flatten Nested List Iterator	39.1%	Medium	
+315	Count of Smaller Numbers After Self	33.6%	Hard	
+401	Binary Watch	43.8%	Easy	
+389	Find the Difference	50.9%	Easy	
+360	Sort Transformed Array 	43.2%	Medium	
+42	Trapping Rain Water	35.5%	Hard	
+276	Paint Fence 	34.0%	Easy	
+400	Nth Digit	30.2%	Easy	
+253	Meeting Rooms II 	38.4%	Medium	
+249	Group Shifted Strings 	39.2%	Medium	
+293	Flip Game 	54.2%	Easy	
+212	Word Search II	22.4%	Hard	
+274	H-Index	32.2%	Medium	
+239	Sliding Window Maximum	31.6%	Hard	
+318	Maximum Product of Word Lengths	42.4%	Medium	
+269	Alien Dictionary 	22.2%	Hard	
+270	Closest Binary Search Tree Value 	38.3%	Easy	
+128	Longest Consecutive Sequence	35.5%	Hard	
+230	Kth Smallest Element in a BST	42.2%	Medium	
+20	Valid Parentheses	32.3%	Easy	
+369	Plus One Linked List 	52.9%	Medium	
+463	Island Perimeter	55.6%	Easy	
+415	Add Strings	41.2%	Easy	
+358	Rearrange String k Distance Apart 	31.9%	Hard	
+162	Find Peak Element	36.0%	Medium	
+139	Word Break	28.4%	Medium	
+373	Find K Pairs with Smallest Sums	29.9%	Medium	
+409	Longest Palindrome	44.6%	Easy	
+158	Read N Characters Given Read4 II - Call multiple times 	24.5%	Hard	
+460	LFU Cache	20.0%	Hard	
+421	Maximum XOR of Two Numbers in an Array	43.2%	Medium	
+327	Count of Range Sum	28.9%	Hard	
+4	Median of Two Sorted Arrays	20.9%	Hard	
+10	Regular Expression Matching	23.7%	Hard	
+332	Reconstruct Itinerary	28.2%	Medium	
+155	Min Stack	26.5%	Easy	
+240	Search a 2D Matrix II	38.0%	Medium	
+324	Wiggle Sort II	25.3%	Medium	
+266	Palindrome Permutation 	55.4%	Easy	
+23	Merge k Sorted Lists	26.1%	Hard	
+348	Design Tic-Tac-Toe 	45.3%	Medium	
+166	Fraction to Recurring Decimal	16.9%	Medium	
+336	Palindrome Pairs	24.9%	Hard	
+133	Clone Graph	25.0%	Medium	
+173	Binary Search Tree Iterator	39.2%	Medium	
+54	Spiral Matrix	24.7%	Medium	
+22	Generate Parentheses	42.1%	Medium	
+231	Power of Two	39.4%	Easy	
+57	Insert Interval	26.5%	Hard	
+382	Linked List Random Node	46.2%	Medium	
+140	Word Break II	22.3%	Hard	
+402	Remove K Digits	26.1%	Medium	
+224	Basic Calculator	25.7%	Hard	
+31	Next Permutation	28.2%	Medium	
+251	Flatten 2D Vector 	39.0%	Medium	
+17	Letter Combinations of a Phone Number	32.6%	Medium	
+444	Sequence Reconstruction 	20.1%	Medium	
+422	Valid Word Square 	36.3%	Easy	
+50	Pow(x, n)	27.0%	Medium	
+272	Closest Binary Search Tree Value II 	37.7%	Hard	
+309	Best Time to Buy and Sell Stock with Cooldown	39.9%	Medium	
+44	Wildcard Matching	19.1%	Hard	
+375	Guess Number Higher or Lower II	35.2%	Medium	
+408	Valid Word Abbreviation 	27.5%	Easy	
+353	Design Snake Game 	25.7%	Medium	
+302	Smallest Rectangle Enclosing Black Pixels 	44.2%	Hard	
+397	Integer Replacement	29.3%	Medium	
+354	Russian Doll Envelopes	32.0%	Hard	
+356	Line Reflection 	30.2%	Medium	
+282	Expression Add Operators	28.7%	Hard	
+368	Largest Divisible Subset	33.3%	Medium	
+363	Max Sum of Rectangle No Larger Than K	32.2%	Hard	
+451	Sort Characters By Frequency	50.2%	Medium	
+208	Implement Trie (Prefix Tree)	25.8%	Medium	
+214	Shortest Palindrome	23.1%	Hard	
+261	Graph Valid Tree 	36.7%	Medium	
+313	Super Ugly Number	37.1%	Medium	
+378	Kth Smallest Element in a Sorted Matrix	43.4%	Medium	
+321	Create Maximum Number	24.0%	Hard	
+331	Verify Preorder Serialization of a Binary Tree	35.3%	Medium	
+374	Guess Number Higher or Lower	33.8%	Easy	
+326	Power of Three	39.4%	Easy	
+257	Binary Tree Paths	35.2%	Easy	
+314	Binary Tree Vertical Order Traversal 	35.6%	Medium	
+459	Repeated Substring Pattern	39.0%	Easy	
+312	Burst Balloons	41.8%	Hard	
+310	Minimum Height Trees	28.6%	Medium	
+377	Combination Sum IV	41.5%	Medium	
+483	Smallest Good Base	28.9%	Hard	
+448	Find All Numbers Disappeared in an Array	54.1%	Easy	
+447	Number of Boomerangs	43.0%	Easy	
+370	Range Addition 	53.9%	Medium	
+494	Target Sum	45.3%	Medium	
+481	Magical String	47.5%	Medium	
+480	Sliding Window Median	31.2%	Hard	
+330	Patching Array	31.6%	Hard	
+475	Heaters	30.1%	Easy	
+474	Ones and Zeroes	36.2%	Medium	
+487	Max Consecutive Ones II 	41.8%	Medium	
+469	Convex Polygon 	29.3%	Medium	
+499	The Maze II 	24.7%	Hard	
+486	Predict the Winner	43.4%	Medium	
+357	Count Numbers with Unique Digits	45.2%	Medium	
+485	Max Consecutive Ones	56.8%	Easy	
+501	Find Mode in Binary Search Tree	41.6%	Easy	
+316	Remove Duplicate Letters	28.6%	Hard	
+379	Design Phone Directory 	30.1%	Medium	
+323	Number of Connected Components in an Undirected Graph 	46.9%	Medium	

@@ -1,0 +1,25 @@
+Hi everyone! 
+
+And for this week we have *one contest*.
+------------------------------------------------------
+The *week 17 contest* (This week) Saturday (*2017.01.28*) *18:30am* PST contest’s problems are:
+Problem 1-*Teemo Attacking* (Traversal): https://leetcode.com/library/edit/546/
+Problem 2-*Diagonal traverse* (Simulation): https://leetcode.com/library/edit/552/
+Problem 3-*The Maze II* (DFS): https://leetcode.com/library/edit/551/
+------------------------------------------------------
+
+To save your time next week, I publish contest 18A for your early review.
+------------------------------------------------------
+The *week 18 contestA* (Next week) Saturday (*2017.02.04*) *07:30pm* PST contest's problems are:
+Problem 1-*Keyboard Row* (Map): https://leetcode.com/library/edit/416/
+Problem 2-*Go Game* (DFS): https://leetcode.com/library/edit/553/
+Problem 3-*IPO* (set+sort): https://leetcode.com/library/edit/543/
+------------------------------------------------------
+
+Please review contest 17 first, and then you can start reviewing contest 18A.
+
+
+The *week 18 contestB* (Next week) Saturday (*2017.02.04*) *18:30pm* PST contest's problems are:
+Problem 1-*find mode in binary search tree* (Traversal): 
+Problem 2-*Next Greater Element I* (stack): 
+Problem 3-*Next Greater Element II* (stack): 

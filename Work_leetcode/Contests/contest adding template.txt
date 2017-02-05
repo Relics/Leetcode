@@ -1,0 +1,30 @@
+LeetCode Weekly Contest 17
+
+<p>
+<b><u>Prize:</u></b><br />
+<b>1st</b> - Amazon $100 gift card<br />
+<b>2nd</b> - Amazon $50 gift card<br />
+<b>3rd</b> - Amazon $25 gift card<br />
+<b>4th</b> to <b>50th</b> - 100 <a href="/library/scores/">LeetCode points</a><br />
+<b>51th</b> to <b>100th</b> - 50 <a href="/library/scores/">LeetCode points</a><br />
+<b>101th</b> to <b>200th</b> - 25 <a href="/library/scores/">LeetCode points</a><br />
+</p>
+
+<p>
+<b><u>IMPORTANT:</u></b><br />
+All submissions will be run through a plagiarism checker. Any detected plagiarism will result in <b><i>immediate disqualification</i></b>. Please be sure to <b><a href="https://leetcode.com/contest/faq/">read the FAQ</a></b>.
+</p>
+
+<p>
+<b><u><font color="red">ANNOUNCEMENT:</font></u></b><br />
+<b><font color="red">Special note</font></b>: Users <b>must register</b> to participate. All registered users will have <b><font color="red">FREE</font></b> access to this contest's <b><font color="red">premium exclusive problems</font></b> up to a week.
+</p>
+
+<p>
+We hope you enjoy this contest! :)
+</p>
+
+<hr/>
+
+<p><b>Want to be a sponsor for our next contest? <a href="mailto:support@leetcode.com" target="_href">Contact us</a></b>.
+</p>
