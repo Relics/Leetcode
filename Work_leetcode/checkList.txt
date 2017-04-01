@@ -1,0 +1,25 @@
+Hi everyone, 
+
+Today's contest we make a history - we have over 1000 users submit their solutions.
+
+But during the contest process, we encountered some problems which make some users get CE. This problem could be solved by publishing again before the contest. It's my fault and I will try to avoid this kind of problem in the future.
+
+I'm reflecting on my faults. Here are some tips I want to share with you, it's concluded by me. I hope it will be useful for you.
+
+*Something must let other people know, tell other people in the contest channel*:
+1. Change of un-default function name.
+2. Change of the boundary/size of the test cases.
+3. Change of the problem name.
+
+*Problem Review Process*:
+0. Check whether this problem has existed.
+1. Check whether the problem description is accurate/incomplete.
+2. Check whether the problem test set is complete or not; If it is not complete, please complete it.
+3. Check the problem description spelling and the set function name is right/suitable or not.
+4. Set/Check the boundary of the test cases.
+5. After you AC this problem, please check some solutions that should get *TLE* (like n^2), if other people haven't checked it yet.
+
+*Final CheckList (Mainly My responsibility)*:
+0. Final-Check the set boundary of test cases.
+1. Fianl-Check the problem description and function name is right or not.
+2. Final Publish all the questions.

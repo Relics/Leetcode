@@ -1,0 +1,5 @@
+1. Given an array of integers, find the total number of subarrays which has sum = k.
+
+2. Given two strings, find the minimum number of delete operations to make both strings the same.
+
+3. Assume total cities = N. Given a 2d matrix (size NxN) of flight times from city A to city B, another matrix (size Nx52) of number of vacation days in a city over each week. You can fly to city A to city B if the flight time between the two city is less than or equal to 3 hours. Find the maximum of vacation days you can take in a year.

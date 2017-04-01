@@ -1,0 +1,10 @@
+Feedback 2017.02.06 - 2017.02.12:
+0. 关于top solutions
+---我觉得原来这个ajax功能挺好的，尤其是原来能在一个页面里面既敲代码又能看到别人的代码。
+---现在top solution移到上方(改名成了discussion)了，感觉不能同时看到top solution和敲代码不太方便。（要切换成两个页面）
+
+1. 关于contest通知
+"You will have 1.5 hours to solve 4 interesting problems. Companies will contact top competitors who are interested in jobs opportunities."
+---1. 是不是不要透露题目数量比较好? 1. 给用户点神秘感 2. 万一我们有零时的变故（比如上次突然加题）也好操作一些。
+---2. "interesting problems"是不是改成"revised real interview problems"会更符号你们的主题？
+---3. contest通知的模板挺好看的，有空可以把用户加题的congratulation通知也用那个模板替换。

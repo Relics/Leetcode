@@ -1,0 +1,15 @@
+Hi everyone! 
+
+And for this week we have *one contest*.
+------------------------------------------------------
+The *week 19 contest* (This week) Saturday (*2017.01.28*) *18:30am* PST contest’s problems are:
+Problem 1-*Base 7*: https://leetcode.com/library/edit/555/
+Problem 2-*Find left most element*: https://leetcode.com/library/edit/567/
+Problem 3-*Find value most element*: https://leetcode.com/library/edit/561/
+Problem 4-*Reverse Pairs*: https://leetcode.com/library/edit/542/
+------------------------------------------------------
+
+
+	
+	
+	

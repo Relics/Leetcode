@@ -61,17 +61,11 @@ int main() {
     //unordered_set<int> s;
     //for (int i=0; i<1000; ++i)
     //    s.insert(rand() % 1200);
-    int last = 0;
-    unordered_set<int> uset;
     
-    cout << "[";
-    for (int i=0; i<10000; ++i) {
-        uset.insert(rand() % 526);
-    }
-    for (auto u : uset){
-        cout << u << ",";
-    }
-    cout << "]" << endl;
     
+    int totalNum = 5;
+    while (totalNum--) {
+        
+    }
     return 0;
 }
